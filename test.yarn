@@ -10,14 +10,17 @@ This is a fake question.
 -> Wow, this is a fake answer I suppose. 
     <<jump end>>
 -> Yes. 
-    I hate pizza. <<jump end>>
+    I hate pizza. 
+    <<jump end>>
 -> No.
-    I love donuts. <<jump end>>
+    I love donuts. 
+    <<jump end>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -303,220
 __PrivCrochet_tags: 
 title: end
 ---
-Let's start over.<<jump Start>>
+Let's start over.
+<<jump Start>>
 ===
